@@ -7,8 +7,6 @@ def reverse_each_word(string)
     
     i+=1
   end
-  
-  
-  
-  arr.join(" ")
+  string = reversed.join(" ")
+string
 end
