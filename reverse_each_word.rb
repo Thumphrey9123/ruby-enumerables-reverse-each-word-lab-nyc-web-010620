@@ -4,7 +4,7 @@ def reverse_each_word(string)
   while i<arr.length do
     arr[i].reverse
     
-    i+=
+    i+=1
   end
   
   
